@@ -1,9 +1,7 @@
 // // 1.) INITIAL STATE
 // // a property called num with the value 0
 
-// const initial_state = {
-
-// }
+// const initial_state = {}
 
 
 // // 2.) CONST VARIABLES
@@ -26,8 +24,35 @@
 
 
 
-const initial_state = {};
+// const initial_state = {};
 
-export default function reducer(state = initial_state, action) {
-    return state;
-}
+// export default function reducer(state = initial_state, action) {
+//     return state;
+// }
+
+// const initial_state = {};
+
+// export default  function reducer(state=initial_state, action){
+//     return state;
+// }
+
+// const initial_state = {};
+
+// export default function reducer(state=initial_state, action) {
+//     return state;
+// }
+
+
+
+
+// const initial_state = {};
+// export default function reducer(state=initial_state, action){
+//     return state;
+// }
+
+
+
+// const initial_state = {};
+// export default function reducer(state=initial_state, action){
+//     return state;
+// };

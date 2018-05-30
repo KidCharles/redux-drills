@@ -19,10 +19,51 @@
 // export default store;
 
 
-import { createStore } from 'redux';
 
-import reducer from './ducks/guestList';
 
-let store = createStore(reducer);
+// import { createStore } from 'redux';
 
-export default store;
+// import reducer from './ducks/guestList';
+
+// let store = createStore(reducer);
+
+// export default store;
+
+
+
+
+// import {createStore} from 'redux';
+
+// import reducer from './ducks/guestList'
+
+// let store = createStore(reducer);
+
+// export default store;
+
+
+
+
+// import {createStore} from 'redux';
+
+// import reducer from './ducks/guestList';
+
+// let store = creatStore(reducer);
+
+// export default store;
+
+
+
+
+// import { createStore } from 'redux';
+
+// import reducer from './ducks/guestList';
+
+// let store = createStore(reducer);
+
+// export default store;
+
+
+// import {createStore} from 'redux';
+// import reducer from './ducks/guestList';
+// let store = createStore(reducer);
+// export default store;
